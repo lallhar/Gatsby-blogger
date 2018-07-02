@@ -16,7 +16,7 @@ const BlogPage = ({data}) => (
             <hr />
         </div>
     ))}
-    <p>Fuck off and Go to Home Page</p>   
+    <p> Go to Home Page</p>   
   </div>
 )
 
